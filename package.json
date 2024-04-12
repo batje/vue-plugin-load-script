@@ -3,6 +3,7 @@
   "version": "1.3.6",
   "description": "A Vue plugin for injecting remote scripts",
   "main": "index.js",
+  "type": "module",
   "repository": "https://github.com/tserkov/vue-plugin-load-script",
   "author": "tserkov <james.churchard@gmail.com>",
   "license": "MIT",
